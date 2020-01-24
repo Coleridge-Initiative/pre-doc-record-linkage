@@ -15,6 +15,6 @@ Optionally, anaconda provides a nice package management system and you can creat
 1. Create named env: `conda create --name py3-rl python=3.6`
 2. Activate new env: `source activate py3-rl`
 3. Add recordlinkage: `pip install recordlinkage`
-4. `conda install ipykernel`
+4. Add ipykernel for step 5:`conda install ipykernel`
 5. Make kernel of new nev available to jupyter `python -m ipykernel install --user --name py3-rl --display-name "py3-RecLink"`
 6. Launch Jupyter notebooks: `jupyter notebook`
