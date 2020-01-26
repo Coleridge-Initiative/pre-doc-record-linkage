@@ -21,7 +21,7 @@ Optionally, anaconda provides a nice package management system and you can creat
 
 Once you've run the above once, you should now have a `py3-RecLink` kernel available in your installation of Jupyter notebooks. If you need to add additional packages, you may need to repeat steps 2 (to reactivate the kernal) and steps 3 or 4 (to install the specific package(s)).
 
-*_NOTE_* for the ML notebook example the sample data is too large to store on github, so we stored it on a Drive folder. You can [download it here]()
+*_NOTE_* for the ML notebook example the sample data is too large to store on github, so we stored it on a Drive folder. You can [download it here](https://drive.google.com/drive/folders/1GyXYBVQOCqFndH6rM26ajoX3hhiyNg5M?usp=sharing)
 
 ### Additional resources
 - [Patentview-API](https://github.com/Coleridge-Initiative/patentview-api) repository teaches API calls to pull PatentView data, and is built to work using [binder](https://mybinder.org/) so you do not need to install the required Python packages (`pandas` and `requests`)
